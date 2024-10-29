@@ -2,7 +2,6 @@
 
 ![Jogo da Velha Concorrente](tic_tac_toe.gif)
 
-
 ## Descrição do Projeto
 
 Neste trabalho prático, você irá implementar um jogo da velha (Tic Tac Toe) com dois jogadores controlados pelo computador utilizando conceitos de programação concorrente em C++. 
