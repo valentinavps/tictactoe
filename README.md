@@ -1,6 +1,6 @@
 # Jogo da Velha com Programação Concorrente
 
-![Jogo da Velha Concorrente](tic_tac_toe.gif)
+![Jogo da Velha Concorrente](tictactoe.gif)
 
 ## Descrição do Projeto
 
